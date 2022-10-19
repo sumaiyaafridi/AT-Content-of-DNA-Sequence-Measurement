@@ -14,9 +14,9 @@ Your program will take path of ``patients.csv`` file and perform the following o
 
 # Expected Results
 
-AT-Content of patient above 10: 0.58
+AT-Content of patients above 10:  0.58
 
-AT-Content of patients above 10:0.42
+AT-Content of patients above 10: 0.42
 
 # Hints
  You can use:
